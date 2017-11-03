@@ -7,9 +7,9 @@
 var PHONE = window.PHONE = function(config) {
     var PHONE         = function(){};
     var pubnub        = PUBNUB(config);
-    var pubkey        = config.publish_key   || 'demo';
+    var pubkey        = pub-c-ee375fb3-d36f-42a9-a9db-95997e81ae15;
     var snapper       = function(){ return ' ' }
-    var subkey        = config.subscribe_key || 'demo';
+    var subkey        = sub-c-28f332be-bfae-11e7-9d68-9ad7add0a6e8;
     var sessionid     = PUBNUB.uuid();
     var mystream      = null;
     var myvideo       = document.createElement('video');
